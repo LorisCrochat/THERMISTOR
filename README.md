@@ -16,6 +16,9 @@ This library allows you to measure temperature using a Negative Temperature Coef
 ## Schematic
 
 Below is a simple schematic for connecting a thermistor:
+
+
+
 ![image](https://github.com/user-attachments/assets/b93ad417-8978-4419-ab96-877f357b3ef3)
 
 
